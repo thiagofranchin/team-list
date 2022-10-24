@@ -1,5 +1,4 @@
 import { Container, Logo, BackButton, BackIcon } from './styles';
-
 import logoImg from '@assets/logo.png';
 
 type Props = {
